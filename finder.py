@@ -40,6 +40,7 @@ sched = BlockingScheduler()
 
 @sched.scheduled_job('interval', minutes=1)
 def scheduled_job():
+	
 	response = urlopen('https://iesmaster.org/')
 	html = response.read()
 
@@ -68,4 +69,8 @@ def scheduled_job():
 
 	#         print("==========")
 			
+####
+#MAIN PROGRAM
+####
 
+sched.start()
