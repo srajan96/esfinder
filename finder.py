@@ -22,7 +22,7 @@ from sendgrid.helpers.mail import *
 today= datetime.now().date()
 print(type(today))
 
-# print(os.environ.get('SENDGRID_API_KEY'))
+print(os.environ.get('SENDGRID_API_KEY'))
 # today=now.strftime("%d-%m-%y")
 
 
