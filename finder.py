@@ -39,7 +39,7 @@ def addemail(batch,email):
 
 sched = BlockingScheduler()
 
-@sched.scheduled_job('interval', minutes=1)
+@sched.scheduled_job('interval', minutes=120)
 def scheduled_job():
 	
 	response = urlopen('https://iesmaster.org/')
