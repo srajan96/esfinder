@@ -1,1 +1,1 @@
-clock: python finder.py
+worker: python finder.py
