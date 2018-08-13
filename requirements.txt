@@ -2,3 +2,4 @@ bs4
 
 sendgrid
 html5lib
+APScheduler==3.0.0
