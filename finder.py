@@ -15,9 +15,8 @@ today= datetime.now().date()
 
 ###HELPERS###
 batchdict={
-    'CERED06':['sonisrajan96@gmail.com','srajan1996@gmail.com'],
-    'CERED09':['srajan1996@gmail.com'],
-    'CERED10':['chetangsti@gmail.com'],
+   
+    'CERED10':['chetangsti@gmail.com','srajan1996@gmail.com'],
     'CEREGD01':['sonisrajan96@gmail.com']
 }
 
@@ -40,7 +39,7 @@ def addemail(batch,email):
 
 sched = BlockingScheduler()
 
-@sched.scheduled_job('interval', minutes=120)
+@sched.scheduled_job('interval', hours=12)
 def scheduled_job():
 	
 	response = urlopen('https://iesmaster.org/')
