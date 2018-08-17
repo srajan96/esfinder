@@ -54,7 +54,7 @@ def scheduled_job():
 			url=child.a["href"]
 			date=datetime.strptime(child.find_all(class_="ns-dt")[0].contents[0],"%d-%m-%y").date()
 	#         print(url)
-			if not (date<today):
+			if  (date<today):
 				print("New Notification")
 				child.a.i.extract()
 				child.a.span.extract()
