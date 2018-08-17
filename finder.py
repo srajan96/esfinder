@@ -37,9 +37,9 @@ def addemail(batch,email):
     batchdict[batch].append(email)
 	
 
-#sched = BlockingScheduler()
+sched = BlockingScheduler()
 
-#@sched.scheduled_job('interval', hours=12)
+@sched.scheduled_job('interval', hours=12)
 def scheduled_job():
 	
 	response = urlopen('https://iesmaster.org/')
@@ -54,7 +54,7 @@ def scheduled_job():
 			url=child.a["href"]
 			date=datetime.strptime(child.find_all(class_="ns-dt")[0].contents[0],"%d-%m-%y").date()
 	#         print(url)
-			if  (date<today):
+			if not  (date<today):
 				print("New Notification")
 				child.a.i.extract()
 				child.a.span.extract()
@@ -77,5 +77,5 @@ def scheduled_job():
 #MAIN PROGRAM
 ####
 
-#sched.start()
-scheduled_job()
+sched.start()
+#scheduled_job()
