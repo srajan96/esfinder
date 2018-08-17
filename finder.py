@@ -16,8 +16,8 @@ today= datetime.now().date()
 ###HELPERS###
 batchdict={
    
-    'CERED10':['chetangsti@gmail.com','srajan1996@gmail.com'],
-    'CEREGD01':['sonisrajan96@gmail.com']
+    'CERED-10':['chetangsti@gmail.com','srajan1996@gmail.com'],
+    'CEREGD-01':['sonisrajan96@gmail.com']
 }
 
 
@@ -37,9 +37,9 @@ def addemail(batch,email):
     batchdict[batch].append(email)
 	
 
-sched = BlockingScheduler()
+#sched = BlockingScheduler()
 
-@sched.scheduled_job('interval', hours=12)
+#@sched.scheduled_job('interval', hours=12)
 def scheduled_job():
 	
 	response = urlopen('https://iesmaster.org/')
@@ -61,7 +61,10 @@ def scheduled_job():
 				desc=child.a.contents[0]
 				print(desc)
 				for batch in batchdict:
-					if(desc.find(str(batch))>0):
+					splitter=batch.split("-")
+					name,code=splitter[0],splitter[1]
+					print(name,code)
+					if((desc.find(str(batch))>0) or (desc.find(name)>0 and desc.find(code)>0)):
 						print(desc)
 						content="IES Master added a new notification.See this <br>"
 						content+="<a href='https://drive.google.com/viewer?url="+url+"'>"+desc+"</a>"
@@ -74,4 +77,5 @@ def scheduled_job():
 #MAIN PROGRAM
 ####
 
-sched.start()
+#sched.start()
+scheduled_job()
