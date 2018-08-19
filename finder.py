@@ -17,7 +17,8 @@ today= datetime.now().date()
 batchdict={
    
     'CERED-10':['chetangsti@gmail.com','srajan1996@gmail.com'],
-    'CEREGD-01':['sonisrajan96@gmail.com']
+    'CEREGD-01':['sonisrajan96@gmail.com'],
+   'CERED-04': ['nikhilpvp6@gmail.com']
 }
 
 
