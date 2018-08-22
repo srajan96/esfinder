@@ -26,7 +26,13 @@ batchdict = {
 
 def sendemail(emaillist, email_content):
     for email in emaillist:
+<<<<<<< HEAD
         sg =sendgrid.SendGridAPIClient(apikey=os.environ.get('SENDGRID_API_KEY'))
+=======
+        sg = \
+            sendgrid.SendGridAPIClient(apikey=os.environ.get('SENDGRID_API_KEY'
+                ))
+>>>>>>> 58ce3fbc74750b0cadac65517fab4a80706ed243
         from_email = Email('iesinformer@srajanlabs.com')
         to_email = Email(email)
         subject = 'New Notificatison from IESMASTERS for you'
@@ -47,7 +53,7 @@ sched = BlockingScheduler()
 def scheduled_job():
 	print("Process started")
 	response = urlopen('https://iesmaster.org/')
-    html = response.read()
+	html = response.read()
 
     soup = BeautifulSoup(html, 'html5lib')
     news = soup.find('div', {'id': 'newser'}).ul
@@ -93,3 +99,5 @@ def scheduled_job():
 sched.start()
 
 # scheduled_job()
+
+    
