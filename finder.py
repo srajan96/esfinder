@@ -47,7 +47,7 @@ sched = BlockingScheduler()
 
 @sched.scheduled_job('interval', hours=12)
 def scheduled_job():
-
+	print("Process started")
     response = urlopen('https://iesmaster.org/')
     html = response.read()
 
