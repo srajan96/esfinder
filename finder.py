@@ -26,28 +26,23 @@ batchdict = {
 
 def sendemail(emaillist, email_content):
     for email in emaillist:
-<<<<<<< HEAD
-        sg =sendgrid.SendGridAPIClient(apikey=os.environ.get('SENDGRID_API_KEY'))
-=======
-        sg = \
-            sendgrid.SendGridAPIClient(apikey=os.environ.get('SENDGRID_API_KEY'
-                ))
->>>>>>> 58ce3fbc74750b0cadac65517fab4a80706ed243
-        from_email = Email('iesinformer@srajanlabs.com')
-        to_email = Email(email)
-        subject = 'New Notificatison from IESMASTERS for you'
-        content = Content('text/html', email_content)
-        mail = Mail(from_email, subject, to_email, content)
-        response = sg.client.mail.send.post(request_body=mail.get())
-        print (response.status_code)
-
+		sg =sendgrid.SendGridAPIClient(apikey=os.environ.get('SENDGRID_API_KEY'))
+		from_email = Email('iesinformer@srajanlabs.com')
+		to_email = Email(email)
+		subject = 'New Notificatison from IESMASTERS for you'
+		content = Content('text/html', email_content)
+		mail = Mail(from_email, subject, to_email, content)
+		response = sg.client.mail.send.post(request_body=mail.get())
+		print (response.status_code)
+        
+        
+        
 
 def addemail(batch, email):
     batchdict[batch].append(email)
 
 
 sched = BlockingScheduler()
-
 
 @sched.scheduled_job('interval', hours=12)
 def scheduled_job():
@@ -100,4 +95,10 @@ sched.start()
 
 # scheduled_job()
 
+
+
+        
+
     
+        
+        
