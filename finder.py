@@ -29,7 +29,7 @@ def sendemail(emaillist,batch, email_content):
         sg =sendgrid.SendGridAPIClient(apikey=os.environ.get('SENDGRID_API_KEY'))
         from_email = Email('iesinformer@srajanlabs.com')
         to_email = Email(email)
-        subject = 'New Notificatison from IESMASTERS for batch '+batch
+        subject = 'New Notification from IESMASTERS for batch '+batch
         content = Content('text/html', email_content)
         mail = Mail(from_email, subject, to_email, content)
         response = sg.client.mail.send.post(request_body=mail.get())
