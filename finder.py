@@ -40,7 +40,7 @@ def addemail(batch, email):
 
 sched = BlockingScheduler()
 
-@sched.scheduled_job('interval', seconds=60)
+@sched.scheduled_job('interval', minutes=60)
 def scheduled_job():
     print("Process started")
     response = urlopen('https://iesmaster.org/')
