@@ -40,7 +40,15 @@ def addemail(batch, email):
 
 sched = BlockingScheduler()
 
-@sched.scheduled_job('interval', minutes=60)
+@sched.scheduled_job('cron',hour=0)
+def clear_last_message():
+    print("Clearing last message started")
+    for batch in batchdict:
+        batchdict[batch]['last-message']=''
+    print("Cleared all last messages")
+    
+
+@sched.scheduled_job('interval', minutes=2)
 def scheduled_job():
     print("Process started")
     response = urlopen('https://iesmaster.org/')
@@ -50,7 +58,8 @@ def scheduled_job():
     for child in news:
         if str(type(child)) == "<class 'bs4.element.Tag'>":
             url = child.a['href']
-            date = datetime.strptime(child.find_all(class_='ns-dt)[0].contents[0],'%d-%m-%y').date()
+            
+            date = datetime.strptime(child.find_all(class_='ns-dt')[0].contents[0],'%d-%m-%y').date()
 
     #         print(url)
 
@@ -101,4 +110,4 @@ def scheduled_job():
 ####
 
 sched.start()
-#scheduled_job()
+# scheduled_job()
