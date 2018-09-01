@@ -48,7 +48,7 @@ def clear_last_message():
     print("Cleared all last messages")
     
 
-@sched.scheduled_job('interval', minutes=2)
+@sched.scheduled_job('interval', hours=2)
 def scheduled_job():
     print("Process started")
     response = urlopen('https://iesmaster.org/')
