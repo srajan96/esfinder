@@ -10,13 +10,13 @@ today = datetime.now().date()
 
 batchdict = {
 'CERED-10':{ 
-  'email-list':['chetangsti@gmail.com','srajan1996@gmail.com'],
-  'last-message':''
-},
-'CERMD-04':{ 
   'email-list':['srajan1996@gmail.com'],
   'last-message':''
 },
+# 'CERMD-04':{ 
+#   'email-list':['srajan1996@gmail.com'],
+#   'last-message':''
+# },
 
 'CERED-04': {
   'email-list':['nikhilpvp6@gmail.com'],
@@ -40,15 +40,17 @@ def addemail(batch, email):
 
 sched = BlockingScheduler()
 
-@sched.scheduled_job('cron',hour=0)
+@sched.scheduled_job('cron',hour=0,timezone="Asia/Kolkata")
 def clear_last_message():
     print("Clearing last message started")
     for batch in batchdict:
         batchdict[batch]['last-message']=''
+        print("Last messaage for batch ",batch," is ",batchdict[batch]['last-message'])
+
     print("Cleared all last messages")
     
 
-@sched.scheduled_job('interval', minutes=2)
+@sched.scheduled_job('interval', minutes=2,timezone="Asia/Kolkata")
 def scheduled_job():
     print("Process started")
     response = urlopen('https://iesmaster.org/')

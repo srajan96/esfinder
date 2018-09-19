@@ -1,0 +1,1500 @@
+2018-09-18T12:42:28.230349+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T12:42:28.230963+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T12:42:28.231052+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T12:42:28.231100+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:28.231187+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T12:42:28.231233+00:00 app[worker.1]: DESCRIPTION :   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T12:42:28.450882+00:00 app[worker.1]: Mail sent to chetangsti@gmail.com
+2018-09-18T12:42:28.653781+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T12:42:28.653891+00:00 app[worker.1]: ###########################################
+2018-09-18T12:42:28.654314+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T12:42:28.653752+00:00 app[worker.1]: Mail sent to srajan1996@gmail.com
+2018-09-18T12:42:28.653778+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T12:42:28.653785+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T12:42:28.653822+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T12:42:28.653884+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:28.654790+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T12:42:28.654922+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T12:42:28.655033+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T12:42:28.654890+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T12:42:28.654897+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T12:42:28.654967+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T12:42:28.655040+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:28.655079+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T12:42:28.655081+00:00 app[worker.1]: DESCRIPTION :   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T12:42:28.907541+00:00 app[worker.1]: Mail sent to nikhilpvp6@gmail.com
+2018-09-18T12:42:28.907715+00:00 app[worker.1]: ###########################################
+2018-09-18T12:42:28.909193+00:00 app[worker.1]: Class Test Schedule Regular Morning (CERMD03)(Dt 24th Sep_2018)
+2018-09-18T12:42:28.909334+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T12:42:28.909470+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T12:42:28.909405+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T12:42:28.909526+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T12:42:28.909656+00:00 app[worker.1]: ###########################################
+2018-09-18T12:42:28.910447+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T12:42:28.910926+00:00 app[worker.1]: Class Chedule Morning Genius Batch (CERMD003)(Dt,18th Sep)
+2018-09-18T12:42:28.911007+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T12:42:28.911085+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T12:42:28.909582+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T12:42:28.911146+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T12:42:28.911233+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T12:42:28.912038+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T12:42:28.912732+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T12:42:28.912786+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T12:42:28.911193+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T12:42:28.911335+00:00 app[worker.1]: ###########################################
+2018-09-18T12:42:28.911044+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T12:42:28.912608+00:00 app[worker.1]: Class Schedule GS Batch(. 25th jul)( 18th Sep;2018 )
+2018-09-18T12:42:28.907669+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T12:42:28.912686+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T12:42:28.912907+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T12:42:28.908577+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T12:42:28.914289+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED01+02+03)(18th Sep)
+2018-09-18T12:42:28.914331+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T12:42:28.913047+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T12:42:28.914371+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T12:42:28.909289+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T12:42:28.913097+00:00 app[worker.1]: ###########################################
+2018-09-18T12:42:28.914535+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T12:42:28.912961+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T12:42:28.914494+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T12:42:28.915099+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T12:42:28.913756+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T12:42:28.914460+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T12:42:28.914585+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T12:42:28.915844+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T12:42:28.915764+00:00 app[worker.1]: Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:28.915940+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T12:42:28.914640+00:00 app[worker.1]: ###########################################
+2018-09-18T12:42:28.915889+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T12:42:28.916014+00:00 app[worker.1]: DESCRIPTION :   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:28.954380+00:00 app[worker.1]: Mail sent to chetangsti@gmail.com
+2018-09-18T12:42:29.058010+00:00 app[worker.1]: Mail sent to srajan1996@gmail.com
+2018-09-18T12:42:29.058164+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T12:42:29.059534+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T12:42:29.059575+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T12:42:29.059620+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T12:42:29.059627+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T12:42:29.059659+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T12:42:29.059682+00:00 app[worker.1]: DESCRIPTION :   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:29.102965+00:00 app[worker.1]: Mail sent to nikhilpvp6@gmail.com
+2018-09-18T12:42:29.102975+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T12:42:29.103007+00:00 app[worker.1]: ###########################################
+2018-09-18T12:42:29.103502+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T12:42:29.103928+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07)(Dt-(17th Sep)
+2018-09-18T12:42:29.103970+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T12:42:29.103977+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:29.104011+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T12:42:29.104016+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T12:42:29.104057+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T12:42:29.104063+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:29.104102+00:00 app[worker.1]: ###########################################
+2018-09-18T12:42:29.104442+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T12:42:29.104864+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD02)(Dt 18th Sep to 21st Sep)
+2018-09-18T12:42:29.104870+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T12:42:29.104909+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:29.104943+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T12:42:29.104968+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T12:42:29.104999+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T12:42:29.105005+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:29.105053+00:00 app[worker.1]: ###########################################
+2018-09-18T12:42:29.105380+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T12:42:29.105946+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD01)(Dt 18th Sep
+2018-09-18T12:42:29.106089+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T12:42:29.106129+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:29.106135+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T12:42:29.106160+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T12:42:29.106194+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T12:42:29.106221+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:29.106249+00:00 app[worker.1]: ###########################################
+2018-09-18T12:42:29.106593+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T12:42:29.107025+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(ECE)(17th Sep & 18th Sep)
+2018-09-18T12:42:29.107054+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T12:42:29.107100+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T12:42:29.107107+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T12:42:29.107059+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:29.107145+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T12:42:29.108060+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(EE)(17th Sep & 18th Sep)
+2018-09-18T12:42:29.107654+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T12:42:29.107302+00:00 app[worker.1]: ###########################################
+2018-09-18T12:42:29.108135+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T12:42:29.108090+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T12:42:29.108096+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:29.107179+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:29.108140+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T12:42:29.108179+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T12:42:29.108185+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T12:42:29.108219+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:24.427784+00:00 app[worker.1]: Process started
+2018-09-18T14:42:28.813343+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:28.813764+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(ECE)(19th Sep)
+2018-09-18T14:42:28.813796+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:28.813824+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.813887+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:28.813931+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:28.813984+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:28.814083+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:28.814030+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.814489+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:28.814902+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(EE)(19th Sep)
+2018-09-18T14:42:28.814955+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:28.815006+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.815106+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:28.815061+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:28.815161+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:28.815206+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.815256+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:28.815632+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:28.816088+00:00 app[worker.1]: Class Schedule GS Batch(. 25th jul)( 19th Sep To 21st sep;2018 )
+2018-09-18T14:42:28.816140+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:28.816189+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.816247+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:28.816293+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:28.816350+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:28.816395+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.816446+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:28.816841+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:28.817334+00:00 app[worker.1]: Class Chedule Morning Genius Batch (CERMD003)(Dt,19th Sep  to 21st sep)
+2018-09-18T14:42:28.818112+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:28.818160+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.818219+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:28.818263+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:28.818319+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:28.818366+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.818419+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:28.818822+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:28.819239+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD01)(Dt 19th Sep to 21st Sep)
+2018-09-18T14:42:28.819289+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:28.819334+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.819385+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:28.819422+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:28.819477+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:28.819530+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.819585+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:28.819930+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:28.820329+00:00 app[worker.1]: Class Schedule GS Batch(. 15th Sep)( 19th sep to 21st Sep2018 )
+2018-09-18T14:42:28.820379+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:28.820421+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.820470+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:28.820512+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:28.820664+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:28.820567+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:28.820994+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:28.821438+00:00 app[worker.1]: Class Schedule Regular Batch(ME)(Dt-19th Sep  to 21st Sep)
+2018-09-18T14:42:28.820614+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.821491+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:28.821537+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.821593+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:28.821788+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:28.821846+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:28.821893+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.821955+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:28.822342+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:28.822851+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED01+02+03)(19th Sep to 20th Sep)
+2018-09-18T14:42:28.822900+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:28.822944+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.823004+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:28.823048+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:28.823118+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:28.823191+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.823242+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:28.823620+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:28.824374+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T14:42:28.824428+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:28.824474+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.824526+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T14:42:28.824573+00:00 app[worker.1]: DESCRIPTION :   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T14:42:28.867724+00:00 app[worker.1]: Mail sent to chetangsti@gmail.com
+2018-09-18T14:42:28.974893+00:00 app[worker.1]: Mail sent to srajan1996@gmail.com
+2018-09-18T14:42:28.974911+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T14:42:28.974913+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:28.974943+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:28.974981+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:28.975017+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.975053+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:28.975533+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:28.975995+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T14:42:28.976026+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:28.976062+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T14:42:28.976098+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:28.976105+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:28.976143+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:28.976149+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:28.976186+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T14:42:28.976192+00:00 app[worker.1]: DESCRIPTION :   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T14:42:29.023030+00:00 app[worker.1]: Mail sent to nikhilpvp6@gmail.com
+2018-09-18T14:42:29.023039+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T14:42:29.023077+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:29.023512+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:29.023913+00:00 app[worker.1]: Class Test Schedule Regular Morning (CERMD03)(Dt 24th Sep_2018)
+2018-09-18T14:42:29.023941+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:29.023966+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T14:42:29.023999+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:29.024004+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:29.024041+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:29.024047+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T14:42:29.024079+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:29.024550+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:29.025001+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED01+02+03)(18th Sep)
+2018-09-18T14:42:29.025008+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:29.025041+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T14:42:29.025086+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:29.025093+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:29.025124+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:29.025131+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T14:42:29.025175+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:29.025624+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:29.031368+00:00 app[worker.1]: Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:29.031399+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:29.031424+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T14:42:29.031452+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T14:42:29.031458+00:00 app[worker.1]: DESCRIPTION :   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:29.071219+00:00 app[worker.1]: Mail sent to chetangsti@gmail.com
+2018-09-18T14:42:29.230710+00:00 app[worker.1]: Mail sent to srajan1996@gmail.com
+2018-09-18T14:42:29.230722+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T14:42:29.230724+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:29.230726+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:29.230730+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:29.230764+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T14:42:29.230767+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T14:42:29.230771+00:00 app[worker.1]: DESCRIPTION :   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:29.278674+00:00 app[worker.1]: Mail sent to nikhilpvp6@gmail.com
+2018-09-18T14:42:29.278688+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T14:42:29.278689+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:29.279098+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:29.279486+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07)(Dt-(17th Sep)
+2018-09-18T14:42:29.279513+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:29.279538+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:29.279570+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:29.279596+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:29.279625+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:29.279631+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:29.279664+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:29.279990+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:29.280376+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD02)(Dt 18th Sep to 21st Sep)
+2018-09-18T14:42:29.280382+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:29.280410+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:29.280438+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:29.280443+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:29.280477+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:29.280482+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:29.280519+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:29.280819+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:29.281183+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD01)(Dt 18th Sep
+2018-09-18T14:42:29.281189+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:29.281217+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:29.281245+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:29.281251+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:29.281285+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:29.281291+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:29.281319+00:00 app[worker.1]: ###########################################
+2018-09-18T14:42:29.281629+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T14:42:29.282057+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(ECE)(17th Sep & 18th Sep)
+2018-09-18T14:42:29.282064+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T14:42:29.282095+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:29.282123+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T14:42:29.282128+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T14:42:29.282163+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T14:42:29.282169+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T14:42:29.282199+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:24.422688+00:00 app[worker.1]: Process started
+2018-09-18T16:42:29.953228+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:29.953752+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(ECE)(19th Sep)
+2018-09-18T16:42:29.953839+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:29.953879+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.953926+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:29.954056+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:29.954130+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:29.954207+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.954248+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:29.954684+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:29.955154+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(EE)(19th Sep)
+2018-09-18T16:42:29.955228+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:29.955262+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.955306+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:29.955356+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:29.955418+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:29.955456+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.955495+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:29.956296+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:29.957310+00:00 app[worker.1]: Class Schedule GS Batch(. 25th jul)( 19th Sep To 21st sep;2018 )
+2018-09-18T16:42:29.957354+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:29.957448+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:29.957389+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.957543+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:29.957670+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.957709+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:29.958570+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:29.957499+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:29.959731+00:00 app[worker.1]: Class Chedule Morning Genius Batch (CERMD003)(Dt,19th Sep  to 21st sep)
+2018-09-18T16:42:29.960146+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:29.960182+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.960225+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:29.960323+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:29.960510+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:29.960544+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.960580+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:29.961946+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:29.963953+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:29.962969+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD01)(Dt 19th Sep to 21st Sep)
+2018-09-18T16:42:29.963994+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.964041+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:29.965420+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:29.965475+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:29.965520+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.965562+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:29.965962+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:29.966335+00:00 app[worker.1]: Class Schedule GS Batch(. 15th Sep)( 19th sep to 21st Sep2018 )
+2018-09-18T16:42:29.966377+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:29.966412+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.966459+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:29.966494+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:29.966537+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:29.966570+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.966608+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:29.966911+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:29.968366+00:00 app[worker.1]: Class Schedule Regular Batch(ME)(Dt-19th Sep  to 21st Sep)
+2018-09-18T16:42:29.968410+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:29.968445+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.968487+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:29.968520+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:29.968562+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:29.968595+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.968633+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:29.968933+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:29.974909+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED01+02+03)(19th Sep to 20th Sep)
+2018-09-18T16:42:29.974961+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:29.975000+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.975049+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:29.975083+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:29.975128+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:29.975162+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.975204+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:29.975594+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:29.976020+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T16:42:29.976062+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:29.976097+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:29.976137+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T16:42:29.976178+00:00 app[worker.1]: DESCRIPTION :   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T16:42:30.044958+00:00 app[worker.1]: Mail sent to chetangsti@gmail.com
+2018-09-18T16:42:30.084968+00:00 app[worker.1]: Mail sent to srajan1996@gmail.com
+2018-09-18T16:42:30.084977+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T16:42:30.085092+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:30.085094+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:30.085096+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:30.085098+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:30.085133+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:30.085653+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:30.086544+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T16:42:30.086551+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:30.086617+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T16:42:30.086708+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:30.086711+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:30.086747+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:30.086773+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:30.086811+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T16:42:30.086836+00:00 app[worker.1]: DESCRIPTION :   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T16:42:30.335841+00:00 app[worker.1]: Mail sent to nikhilpvp6@gmail.com
+2018-09-18T16:42:30.335858+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T16:42:30.335902+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:30.336336+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:30.336793+00:00 app[worker.1]: Class Test Schedule Regular Morning (CERMD03)(Dt 24th Sep_2018)
+2018-09-18T16:42:30.336820+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:30.336853+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T16:42:30.336889+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:30.336916+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:30.336974+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:30.336981+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T16:42:30.337015+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:30.343184+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:30.343656+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED01+02+03)(18th Sep)
+2018-09-18T16:42:30.343689+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:30.343709+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T16:42:30.343742+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:30.343772+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:30.343808+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:30.343841+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T16:42:30.343896+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:30.344256+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:30.344665+00:00 app[worker.1]: Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:30.344699+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:30.344725+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T16:42:30.344778+00:00 app[worker.1]: DESCRIPTION :   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:30.344758+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T16:42:30.402786+00:00 app[worker.1]: Mail sent to chetangsti@gmail.com
+2018-09-18T16:42:30.553033+00:00 app[worker.1]: Mail sent to srajan1996@gmail.com
+2018-09-18T16:42:30.553068+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T16:42:30.553119+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:30.553146+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:30.553191+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:30.553198+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T16:42:30.553249+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T16:42:30.553251+00:00 app[worker.1]: DESCRIPTION :   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:30.806888+00:00 app[worker.1]: Mail sent to nikhilpvp6@gmail.com
+2018-09-18T16:42:30.806903+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T16:42:30.808039+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:30.807107+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:30.808850+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07)(Dt-(17th Sep)
+2018-09-18T16:42:30.808878+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:30.808916+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:30.808961+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:30.808989+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:30.809033+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:30.809039+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:30.809075+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:30.838493+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD02)(Dt 18th Sep to 21st Sep)
+2018-09-18T16:42:30.838523+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:30.838598+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:30.809609+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:30.839122+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:30.839790+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD01)(Dt 18th Sep
+2018-09-18T16:42:30.839797+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:30.839872+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:30.839818+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:30.839914+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:30.839943+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:30.839877+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:30.839987+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:30.840855+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T16:42:30.840889+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:30.840921+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:30.840939+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T16:42:30.840975+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:30.841003+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:30.838552+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:30.838596+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T16:42:30.838632+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T16:42:30.838659+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T16:42:30.838690+00:00 app[worker.1]: ###########################################
+2018-09-18T16:42:30.840355+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T16:42:30.840808+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(ECE)(17th Sep & 18th Sep)
+2018-09-18T16:42:30.841039+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:24.417142+00:00 app[worker.1]: Process started
+2018-09-18T18:42:28.410516+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:28.410910+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(ECE)(19th Sep)
+2018-09-18T18:42:28.411025+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:28.411067+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.411120+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:28.411160+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:28.411209+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:28.411249+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.411293+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:28.411650+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:28.412078+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(EE)(19th Sep)
+2018-09-18T18:42:28.412123+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:28.412163+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.412210+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:28.412248+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:28.412295+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:28.412334+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.412382+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:28.412750+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:28.413175+00:00 app[worker.1]: Class Schedule GS Batch(. 25th jul)( 19th Sep To 21st sep;2018 )
+2018-09-18T18:42:28.413219+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:28.413258+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.413306+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:28.413344+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:28.413390+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:28.413435+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.413478+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:28.413864+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:28.414317+00:00 app[worker.1]: Class Chedule Morning Genius Batch (CERMD003)(Dt,19th Sep  to 21st sep)
+2018-09-18T18:42:28.415235+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:28.415277+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.415328+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:28.415365+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:28.415413+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:28.415452+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.415495+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:28.415854+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:28.416284+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD01)(Dt 19th Sep to 21st Sep)
+2018-09-18T18:42:28.416328+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:28.416368+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.416415+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:28.416452+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:28.416500+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:28.416539+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.416582+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:28.416947+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:28.417364+00:00 app[worker.1]: Class Schedule GS Batch(. 15th Sep)( 19th sep to 21st Sep2018 )
+2018-09-18T18:42:28.417408+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:28.417447+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.417533+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:28.417495+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:28.417586+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:28.417625+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.417669+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:28.418046+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:28.418465+00:00 app[worker.1]: Class Schedule Regular Batch(ME)(Dt-19th Sep  to 21st Sep)
+2018-09-18T18:42:28.418509+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:28.418596+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:28.418548+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.418634+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:28.418681+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:28.418720+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.418763+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:28.419118+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:28.419539+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED01+02+03)(19th Sep to 20th Sep)
+2018-09-18T18:42:28.419583+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:28.419622+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.419674+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:28.419714+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:28.419769+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:28.419816+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.419866+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:28.420229+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:28.420655+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T18:42:28.420699+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:28.420739+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.420792+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T18:42:28.420835+00:00 app[worker.1]: DESCRIPTION :   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T18:42:28.646670+00:00 app[worker.1]: Mail sent to chetangsti@gmail.com
+2018-09-18T18:42:28.775666+00:00 app[worker.1]: Mail sent to srajan1996@gmail.com
+2018-09-18T18:42:28.775698+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T18:42:28.775705+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:28.775701+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:28.775750+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:28.775757+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.775799+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:28.776322+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:28.776855+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T18:42:28.776887+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:28.776914+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T18:42:28.776949+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:28.776955+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:28.776996+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:28.777214+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:28.777256+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T18:42:28.777333+00:00 app[worker.1]: DESCRIPTION :   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T18:42:28.996870+00:00 app[worker.1]: Mail sent to nikhilpvp6@gmail.com
+2018-09-18T18:42:28.996964+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T18:42:28.997015+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:28.998420+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:29.000685+00:00 app[worker.1]: Class Test Schedule Regular Morning (CERMD03)(Dt 24th Sep_2018)
+2018-09-18T18:42:29.000739+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:29.000849+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:29.000789+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T18:42:29.000896+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:29.000954+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:29.001003+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T18:42:29.001056+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:29.001459+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:29.003611+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:29.005442+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T18:42:29.003554+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED01+02+03)(18th Sep)
+2018-09-18T18:42:29.005565+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:29.005503+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:29.005638+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:29.005684+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T18:42:29.006314+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:29.005783+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:29.007418+00:00 app[worker.1]: Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:29.007698+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:29.007870+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T18:42:29.007916+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T18:42:29.008040+00:00 app[worker.1]: DESCRIPTION :   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:29.073061+00:00 app[worker.1]: Mail sent to chetangsti@gmail.com
+2018-09-18T18:42:29.109724+00:00 app[worker.1]: Mail sent to srajan1996@gmail.com
+2018-09-18T18:42:29.109821+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:29.109832+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:29.109761+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T18:42:29.109872+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:29.109886+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T18:42:29.109921+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T18:42:29.109927+00:00 app[worker.1]: DESCRIPTION :   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:29.338044+00:00 app[worker.1]: Mail sent to nikhilpvp6@gmail.com
+2018-09-18T18:42:29.338062+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T18:42:29.338092+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:29.347967+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:29.348442+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07)(Dt-(17th Sep)
+2018-09-18T18:42:29.348504+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:29.348556+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:29.348474+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:29.348639+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:29.349513+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:29.351893+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD02)(Dt 18th Sep to 21st Sep)
+2018-09-18T18:42:29.352148+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:29.348549+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:29.352155+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:29.348597+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:29.352729+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:29.352793+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:29.348603+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:29.352687+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:29.365757+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:29.366135+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD01)(Dt 18th Sep
+2018-09-18T18:42:29.352206+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:29.353118+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:29.366193+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:29.366226+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:29.366231+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T18:42:29.366167+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:29.366270+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:29.366311+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:29.366645+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T18:42:29.397831+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T18:42:29.397885+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:29.390144+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(ECE)(17th Sep & 18th Sep)
+2018-09-18T18:42:29.397945+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T18:42:29.366275+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:29.398091+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T18:42:29.398045+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T18:42:29.398141+00:00 app[worker.1]: ###########################################
+2018-09-18T18:42:29.397990+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T20:42:24.423580+00:00 app[worker.1]: Process started
+2018-09-18T20:42:28.491180+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T20:42:28.491577+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(ECE)(19th Sep)
+2018-09-18T20:42:28.491607+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T20:42:28.491635+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.491675+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T20:42:28.491669+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T20:42:28.491711+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T20:42:28.491718+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.491746+00:00 app[worker.1]: ###########################################
+2018-09-18T20:42:28.492079+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T20:42:28.492443+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(EE)(19th Sep)
+2018-09-18T20:42:28.492487+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T20:42:28.492494+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.492531+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T20:42:28.492538+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T20:42:28.492569+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T20:42:28.492575+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.492616+00:00 app[worker.1]: ###########################################
+2018-09-18T20:42:28.492929+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T20:42:28.493301+00:00 app[worker.1]: Class Schedule GS Batch(. 25th jul)( 19th Sep To 21st sep;2018 )
+2018-09-18T20:42:28.493308+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T20:42:28.493345+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.493376+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T20:42:28.493382+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T20:42:28.493424+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T20:42:28.493431+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.493470+00:00 app[worker.1]: ###########################################
+2018-09-18T20:42:28.493842+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T20:42:28.494259+00:00 app[worker.1]: Class Chedule Morning Genius Batch (CERMD003)(Dt,19th Sep  to 21st sep)
+2018-09-18T20:42:28.494266+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T20:42:28.494298+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.494328+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T20:42:28.494334+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T20:42:28.494377+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T20:42:28.494383+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.494418+00:00 app[worker.1]: ###########################################
+2018-09-18T20:42:28.494808+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T20:42:28.495221+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD01)(Dt 19th Sep to 21st Sep)
+2018-09-18T20:42:28.495252+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T20:42:28.495258+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.495299+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T20:42:28.495304+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T20:42:28.495347+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T20:42:28.495353+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.495389+00:00 app[worker.1]: ###########################################
+2018-09-18T20:42:28.495726+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T20:42:28.496131+00:00 app[worker.1]: Class Schedule GS Batch(. 15th Sep)( 19th sep to 21st Sep2018 )
+2018-09-18T20:42:28.496161+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T20:42:28.496167+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.496218+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T20:42:28.496260+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T20:42:28.496211+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T20:42:28.496267+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.496302+00:00 app[worker.1]: ###########################################
+2018-09-18T20:42:28.496660+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T20:42:28.497055+00:00 app[worker.1]: Class Schedule Regular Batch(ME)(Dt-19th Sep  to 21st Sep)
+2018-09-18T20:42:28.497082+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T20:42:28.497108+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.497140+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T20:42:28.497179+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T20:42:28.497185+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T20:42:28.497226+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.497229+00:00 app[worker.1]: ###########################################
+2018-09-18T20:42:28.497564+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T20:42:28.498893+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED01+02+03)(19th Sep to 20th Sep)
+2018-09-18T20:42:28.498935+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T20:42:28.498966+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T20:42:28.498941+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.498973+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T20:42:28.498969+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T20:42:28.498994+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.498999+00:00 app[worker.1]: ###########################################
+2018-09-18T20:42:28.499229+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T20:42:28.499472+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T20:42:28.499478+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T20:42:28.499510+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.499516+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T20:42:28.499522+00:00 app[worker.1]: DESCRIPTION :   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T20:42:28.646249+00:00 app[worker.1]: Mail sent to chetangsti@gmail.com
+2018-09-18T20:42:28.977378+00:00 app[worker.1]: Mail sent to srajan1996@gmail.com
+2018-09-18T20:42:28.977981+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T20:42:28.977838+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T20:42:28.978255+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T20:42:28.978346+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T20:42:28.978523+00:00 app[worker.1]: ###########################################
+2018-09-18T20:42:28.978405+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.979769+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T20:42:28.981205+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T20:42:28.981469+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T20:42:28.981513+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T20:42:28.981633+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T20:42:28.981564+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T20:42:28.981831+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T20:42:28.981873+00:00 app[worker.1]: Batch last seen message is   Class Schedule :Batch: (CERED04+08 +10:Regular Evening-Genius Batch )(Dt:18th Sep)
+2018-09-18T20:42:28.981917+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T20:42:28.981988+00:00 app[worker.1]: DESCRIPTION :   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T20:42:29.222897+00:00 app[worker.1]: Mail sent to nikhilpvp6@gmail.com
+2018-09-18T20:42:29.223118+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T20:42:29.223169+00:00 app[worker.1]: ###########################################
+2018-09-18T20:42:29.223642+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T20:42:29.224169+00:00 app[worker.1]: Class Test Schedule Regular Morning (CERMD03)(Dt 24th Sep_2018)
+2018-09-18T20:42:29.224495+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T20:42:29.224545+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T20:42:29.224597+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T20:42:29.224637+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T20:42:29.224688+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T20:42:29.224774+00:00 app[worker.1]: ###########################################
+2018-09-18T20:42:29.224729+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T20:42:29.225242+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T20:42:29.227730+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD02)(Dt 18th Sep to 21st Sep)
+2018-09-18T20:42:29.227799+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T20:42:29.227841+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T20:42:29.227889+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T20:42:29.228924+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T20:42:29.228992+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T20:42:29.229035+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T20:42:29.229082+00:00 app[worker.1]: ###########################################
+2018-09-18T21:00:46.883911+00:00 heroku[worker.1]: Cycling
+2018-09-18T21:00:46.884404+00:00 heroku[worker.1]: State changed from up to starting
+2018-09-18T21:00:47.864049+00:00 heroku[worker.1]: Stopping all processes with SIGTERM
+2018-09-18T21:00:47.982608+00:00 heroku[worker.1]: Process exited with status 143
+2018-09-18T21:00:51.849798+00:00 heroku[worker.1]: Starting process with command `python finder.py`
+2018-09-18T21:00:52.595025+00:00 heroku[worker.1]: State changed from starting to up
+2018-09-18T23:00:55.801332+00:00 app[worker.1]: Process started
+2018-09-18T23:00:59.124033+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T23:00:59.124261+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(ECE)(19th Sep)
+2018-09-18T23:00:59.124265+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T23:00:59.124266+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.124272+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T23:00:59.124274+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.124278+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T23:00:59.124282+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.124307+00:00 app[worker.1]: ###########################################
+2018-09-18T23:00:59.124538+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T23:00:59.124726+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(EE)(19th Sep)
+2018-09-18T23:00:59.124728+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T23:00:59.124733+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.124737+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T23:00:59.124763+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.124765+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T23:00:59.124770+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.124774+00:00 app[worker.1]: ###########################################
+2018-09-18T23:00:59.124957+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T23:00:59.125145+00:00 app[worker.1]: Class Schedule GS Batch(. 25th jul)( 19th Sep To 21st sep;2018 )
+2018-09-18T23:00:59.125147+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T23:00:59.125153+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.125155+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T23:00:59.125159+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.125198+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T23:00:59.125200+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.125202+00:00 app[worker.1]: ###########################################
+2018-09-18T23:00:59.125377+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T23:00:59.125585+00:00 app[worker.1]: Class Chedule Morning Genius Batch (CERMD003)(Dt,19th Sep  to 21st sep)
+2018-09-18T23:00:59.125634+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.125628+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T23:00:59.125677+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.125672+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T23:00:59.125722+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.125717+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T23:00:59.125753+00:00 app[worker.1]: ###########################################
+2018-09-18T23:00:59.126417+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T23:00:59.126420+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD01)(Dt 19th Sep to 21st Sep)
+2018-09-18T23:00:59.126422+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T23:00:59.126423+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.126425+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T23:00:59.126427+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.126434+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.126432+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T23:00:59.126658+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T23:00:59.126963+00:00 app[worker.1]: Class Schedule GS Batch(. 15th Sep)( 19th sep to 21st Sep2018 )
+2018-09-18T23:00:59.126436+00:00 app[worker.1]: ###########################################
+2018-09-18T23:00:59.126966+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T23:00:59.126967+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.127000+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T23:00:59.127005+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.127044+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T23:00:59.127049+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.127107+00:00 app[worker.1]: ###########################################
+2018-09-18T23:00:59.127293+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T23:00:59.127553+00:00 app[worker.1]: Class Schedule Regular Batch(ME)(Dt-19th Sep  to 21st Sep)
+2018-09-18T23:00:59.127557+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T23:00:59.127559+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.127561+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T23:00:59.127566+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.127570+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T23:00:59.127602+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.127630+00:00 app[worker.1]: ###########################################
+2018-09-18T23:00:59.127851+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T23:00:59.128060+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED01+02+03)(19th Sep to 20th Sep)
+2018-09-18T23:00:59.128066+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T23:00:59.128098+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.128129+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T23:00:59.128134+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.128171+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T23:00:59.128176+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.128208+00:00 app[worker.1]: ###########################################
+2018-09-18T23:00:59.128413+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T23:00:59.128760+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T23:00:59.128763+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T23:00:59.128764+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:00:59.128766+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T23:00:59.128773+00:00 app[worker.1]: DESCRIPTION :   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T23:00:59.893880+00:00 app[worker.1]: Mail sent to chetangsti@gmail.com
+2018-09-18T23:01:00.077377+00:00 app[worker.1]: Mail sent to srajan1996@gmail.com
+2018-09-18T23:01:00.077387+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T23:01:00.077392+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:01:00.077390+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T23:01:00.077393+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T23:01:00.077810+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T23:01:00.077395+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:01:00.078170+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T23:01:00.077397+00:00 app[worker.1]: ###########################################
+2018-09-18T23:01:00.078235+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T23:01:00.078271+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T23:01:00.078206+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T23:01:00.078357+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:01:00.078413+00:00 app[worker.1]: DESCRIPTION :   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T23:01:00.078298+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:01:00.078386+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-18T23:01:00.078330+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T23:01:00.271300+00:00 app[worker.1]: Mail sent to nikhilpvp6@gmail.com
+2018-09-18T23:01:00.271319+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-18T23:01:00.271321+00:00 app[worker.1]: ###########################################
+2018-09-18T23:01:00.271738+00:00 app[worker.1]: ############New Notification#############
+2018-09-18T23:01:00.272191+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-18T23:01:00.272078+00:00 app[worker.1]: Class Test Schedule Regular Morning (CERMD03)(Dt 24th Sep_2018)
+2018-09-18T23:01:00.272212+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-18T23:01:00.272230+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-18T23:01:00.272234+00:00 app[worker.1]: Batch last seen message is
+2018-09-18T23:01:00.272284+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-18T23:01:00.272286+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-18T23:01:00.272287+00:00 app[worker.1]: ###########################################
+2018-09-19T00:00:00.004047+00:00 app[worker.1]: Clearing last message started
+2018-09-19T00:00:00.004124+00:00 app[worker.1]: Cleared all last messages
+2018-09-19T01:00:55.803459+00:00 app[worker.1]: Process started
+2018-09-19T01:00:59.429227+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T01:00:59.429585+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(ECE)(19th Sep)
+2018-09-19T01:00:59.429622+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T01:00:59.429624+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.429658+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T01:00:59.429662+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.429710+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T01:00:59.429735+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.429760+00:00 app[worker.1]: ###########################################
+2018-09-19T01:00:59.430202+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T01:00:59.430582+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(EE)(19th Sep)
+2018-09-19T01:00:59.430606+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T01:00:59.430629+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.430681+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T01:00:59.430695+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.430732+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T01:00:59.430755+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.430784+00:00 app[worker.1]: ###########################################
+2018-09-19T01:00:59.431098+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T01:00:59.431550+00:00 app[worker.1]: Class Schedule GS Batch(. 25th jul)( 19th Sep To 21st sep;2018 )
+2018-09-19T01:00:59.431585+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T01:00:59.431590+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.431638+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T01:00:59.431642+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.431678+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T01:00:59.431701+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.431733+00:00 app[worker.1]: ###########################################
+2018-09-19T01:00:59.432109+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T01:00:59.432415+00:00 app[worker.1]: Class Chedule Morning Genius Batch (CERMD003)(Dt,19th Sep  to 21st sep)
+2018-09-19T01:00:59.432421+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T01:00:59.432488+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.432490+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T01:00:59.432513+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.432518+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T01:00:59.432540+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.432544+00:00 app[worker.1]: ###########################################
+2018-09-19T01:00:59.432727+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T01:00:59.432923+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD01)(Dt 19th Sep to 21st Sep)
+2018-09-19T01:00:59.432929+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T01:00:59.432932+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.432959+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T01:00:59.432961+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.432965+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T01:00:59.433010+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.433015+00:00 app[worker.1]: ###########################################
+2018-09-19T01:00:59.433230+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T01:00:59.433620+00:00 app[worker.1]: Class Schedule GS Batch(. 15th Sep)( 19th sep to 21st Sep2018 )
+2018-09-19T01:00:59.433628+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T01:00:59.433632+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.433656+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T01:00:59.433661+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.433665+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T01:00:59.433696+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.433701+00:00 app[worker.1]: ###########################################
+2018-09-19T01:00:59.434017+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T01:00:59.434239+00:00 app[worker.1]: Class Schedule Regular Batch(ME)(Dt-19th Sep  to 21st Sep)
+2018-09-19T01:00:59.434242+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T01:00:59.434329+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.434372+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T01:00:59.434395+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.434480+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T01:00:59.434504+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.434531+00:00 app[worker.1]: ###########################################
+2018-09-19T01:00:59.434862+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T01:00:59.435092+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED01+02+03)(19th Sep to 20th Sep)
+2018-09-19T01:00:59.435097+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T01:00:59.435113+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.435117+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T01:00:59.435119+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.435138+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T01:00:59.435142+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.435162+00:00 app[worker.1]: ###########################################
+2018-09-19T01:00:59.435336+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T01:00:59.435574+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T01:00:59.435579+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T01:00:59.435584+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.435604+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-19T01:00:59.435606+00:00 app[worker.1]: DESCRIPTION :   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T01:00:59.652940+00:00 app[worker.1]: Mail sent to chetangsti@gmail.com
+2018-09-19T01:00:59.924066+00:00 app[worker.1]: Mail sent to srajan1996@gmail.com
+2018-09-19T01:00:59.924092+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-19T01:00:59.924096+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T01:00:59.924235+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T01:00:59.924237+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.926359+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T01:00:59.926423+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T01:00:59.926525+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.924126+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.926463+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T01:00:59.924239+00:00 app[worker.1]: ###########################################
+2018-09-19T01:00:59.925874+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T01:00:59.926319+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T01:00:59.926387+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T01:00:59.926428+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:00:59.926554+00:00 app[worker.1]: -------------SENDING EMAIL-----------
+2018-09-19T01:00:59.926560+00:00 app[worker.1]: DESCRIPTION :   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T01:01:00.184382+00:00 app[worker.1]: Mail sent to nikhilpvp6@gmail.com
+2018-09-19T01:01:00.191557+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T01:01:00.188515+00:00 app[worker.1]: -------------MAIL SENDING OVER--------
+2018-09-19T01:01:00.188518+00:00 app[worker.1]: ###########################################
+2018-09-19T01:01:00.191561+00:00 app[worker.1]: Class Test Schedule Regular Morning (CERMD03)(Dt 24th Sep_2018)
+2018-09-19T01:01:00.191565+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T01:01:00.191563+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T01:01:00.191567+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T01:01:00.191568+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T01:01:00.191570+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T01:01:00.191572+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T01:01:00.191573+00:00 app[worker.1]: ###########################################
+2018-09-19T03:00:55.820145+00:00 app[worker.1]: Process started
+2018-09-19T03:00:59.053124+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T03:00:59.053653+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(ECE)(19th Sep)
+2018-09-19T03:00:59.053735+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T03:00:59.053660+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T03:00:59.054473+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(EE)(19th Sep)
+2018-09-19T03:00:59.053805+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T03:00:59.053741+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T03:00:59.053784+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T03:00:59.053745+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T03:00:59.054111+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T03:00:59.054519+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T03:00:59.054655+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T03:00:59.054705+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T03:00:59.054565+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T03:00:59.054748+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T03:00:59.054793+00:00 app[worker.1]: ###########################################
+2018-09-19T03:00:59.053810+00:00 app[worker.1]: ###########################################
+2018-09-19T03:00:59.055128+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T03:00:59.054615+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T03:00:59.055365+00:00 app[worker.1]: Class Schedule GS Batch(. 25th jul)( 19th Sep To 21st sep;2018 )
+2018-09-19T03:00:59.055669+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T03:00:59.055372+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T03:00:59.055672+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T03:00:59.055674+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T03:00:59.055676+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T03:00:59.055678+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T03:00:59.055685+00:00 app[worker.1]: ###########################################
+2018-09-19T03:00:59.055810+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T03:00:59.056230+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T03:00:59.056224+00:00 app[worker.1]: Class Chedule Morning Genius Batch (CERMD003)(Dt,19th Sep  to 21st sep)
+2018-09-19T03:00:59.056273+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T03:00:59.056278+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T03:00:59.056302+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T03:00:59.056355+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T03:00:59.056361+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T03:00:59.056391+00:00 app[worker.1]: ###########################################
+2018-09-19T03:00:59.056655+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T03:00:59.056909+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD01)(Dt 19th Sep to 21st Sep)
+2018-09-19T03:00:59.056915+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T03:00:59.056949+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T03:00:59.056979+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T03:00:59.056985+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T03:00:59.057031+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T03:00:59.057033+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T03:00:59.057058+00:00 app[worker.1]: ###########################################
+2018-09-19T03:00:59.057274+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T03:00:59.057520+00:00 app[worker.1]: Class Schedule GS Batch(. 15th Sep)( 19th sep to 21st Sep2018 )
+2018-09-19T03:00:59.057525+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T03:00:59.057560+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T03:00:59.057581+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T03:00:59.057585+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T03:00:59.057621+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T03:00:59.057626+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T03:00:59.057660+00:00 app[worker.1]: ###########################################
+2018-09-19T03:00:59.057887+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T03:00:59.058134+00:00 app[worker.1]: Class Schedule Regular Batch(ME)(Dt-19th Sep  to 21st Sep)
+2018-09-19T03:00:59.058140+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T03:00:59.058292+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T03:00:59.058297+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T03:00:59.058295+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T03:00:59.058299+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T03:00:59.058162+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T03:00:59.058317+00:00 app[worker.1]: ###########################################
+2018-09-19T03:00:59.058731+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED01+02+03)(19th Sep to 20th Sep)
+2018-09-19T03:00:59.058506+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T03:00:59.058762+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T03:00:59.058767+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T03:00:59.058807+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T03:00:59.058812+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T03:00:59.058848+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T03:00:59.058867+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T03:00:59.058869+00:00 app[worker.1]: ###########################################
+2018-09-19T03:00:59.059063+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T03:00:59.059322+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T03:00:59.059328+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T03:00:59.059359+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T03:00:59.059402+00:00 app[worker.1]: ___________MAIL ALREADY SENT,SKIPPING REMAINING________
+2018-09-19T03:00:59.059405+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T03:00:59.059409+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T03:00:59.059449+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T03:00:59.059454+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T03:00:59.059494+00:00 app[worker.1]: ###########################################
+2018-09-19T03:00:59.059730+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T03:00:59.059980+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T03:00:59.059987+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T03:00:59.059989+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T03:00:59.060026+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T03:00:59.060032+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T03:00:59.060069+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T03:00:59.060075+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T03:00:59.060102+00:00 app[worker.1]: ___________MAIL ALREADY SENT,SKIPPING REMAINING________
+2018-09-19T03:00:59.060129+00:00 app[worker.1]: ###########################################
+2018-09-19T03:00:59.060362+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T03:00:59.060652+00:00 app[worker.1]: Class Test Schedule Regular Morning (CERMD03)(Dt 24th Sep_2018)
+2018-09-19T03:00:59.060658+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T03:00:59.060689+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T03:00:59.060723+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T03:00:59.060728+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T03:00:59.060767+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T03:00:59.060773+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T03:00:59.060807+00:00 app[worker.1]: ###########################################
+2018-09-19T05:00:55.821584+00:00 app[worker.1]: Process started
+2018-09-19T05:00:59.206823+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T05:00:59.207189+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(ECE)(19th Sep)
+2018-09-19T05:00:59.207243+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T05:00:59.207395+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T05:00:59.207355+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T05:00:59.207300+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T05:00:59.207494+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T05:00:59.207539+00:00 app[worker.1]: ###########################################
+2018-09-19T05:00:59.207443+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T05:00:59.208302+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(EE)(19th Sep)
+2018-09-19T05:00:59.207898+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T05:00:59.208349+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T05:00:59.208389+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T05:00:59.208509+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T05:00:59.208468+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T05:00:59.209401+00:00 app[worker.1]: Class Schedule GS Batch(. 25th jul)( 19th Sep To 21st sep;2018 )
+2018-09-19T05:00:59.208558+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T05:00:59.208598+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T05:00:59.209449+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T05:00:59.208992+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T05:00:59.208640+00:00 app[worker.1]: ###########################################
+2018-09-19T05:00:59.209577+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T05:00:59.209537+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T05:00:59.209490+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T05:00:59.209625+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T05:00:59.209664+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T05:00:59.210052+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T05:00:59.209707+00:00 app[worker.1]: ###########################################
+2018-09-19T05:00:59.210460+00:00 app[worker.1]: Class Chedule Morning Genius Batch (CERMD003)(Dt,19th Sep  to 21st sep)
+2018-09-19T05:00:59.210507+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T05:00:59.210546+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T05:00:59.210594+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T05:00:59.210630+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T05:00:59.210675+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T05:00:59.210713+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T05:00:59.211104+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T05:00:59.210756+00:00 app[worker.1]: ###########################################
+2018-09-19T05:00:59.211505+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD01)(Dt 19th Sep to 21st Sep)
+2018-09-19T05:00:59.211548+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T05:00:59.211588+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T05:00:59.211635+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T05:00:59.211671+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T05:00:59.211716+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T05:00:59.211759+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T05:00:59.211802+00:00 app[worker.1]: ###########################################
+2018-09-19T05:00:59.212148+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T05:00:59.212576+00:00 app[worker.1]: Class Schedule GS Batch(. 15th Sep)( 19th sep to 21st Sep2018 )
+2018-09-19T05:00:59.212622+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T05:00:59.212662+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T05:00:59.212707+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T05:00:59.212745+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T05:00:59.212790+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T05:00:59.212834+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T05:00:59.212878+00:00 app[worker.1]: ###########################################
+2018-09-19T05:00:59.213232+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T05:00:59.213626+00:00 app[worker.1]: Class Schedule Regular Batch(ME)(Dt-19th Sep  to 21st Sep)
+2018-09-19T05:00:59.213671+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T05:00:59.213710+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T05:00:59.213757+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T05:00:59.213794+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T05:00:59.213849+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T05:00:59.213888+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T05:00:59.213930+00:00 app[worker.1]: ###########################################
+2018-09-19T05:00:59.214274+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T05:00:59.214688+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED01+02+03)(19th Sep to 20th Sep)
+2018-09-19T05:00:59.214774+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T05:00:59.214824+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T05:00:59.214733+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T05:00:59.214860+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T05:00:59.214905+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T05:00:59.214943+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T05:00:59.214986+00:00 app[worker.1]: ###########################################
+2018-09-19T05:00:59.215331+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T05:00:59.215726+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T05:00:59.215774+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T05:00:59.215814+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T05:00:59.215849+00:00 app[worker.1]: ___________MAIL ALREADY SENT,SKIPPING REMAINING________
+2018-09-19T05:00:59.215885+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T05:00:59.215919+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T05:00:59.215968+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T05:00:59.216004+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T05:00:59.216046+00:00 app[worker.1]: ###########################################
+2018-09-19T05:00:59.216343+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T05:00:59.216772+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T05:00:59.216867+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T05:00:59.216906+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T05:00:59.216949+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T05:00:59.216985+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T05:00:59.217027+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T05:00:59.217063+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T05:00:59.217097+00:00 app[worker.1]: ___________MAIL ALREADY SENT,SKIPPING REMAINING________
+2018-09-19T05:00:59.217129+00:00 app[worker.1]: ###########################################
+2018-09-19T05:00:59.217444+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T05:00:59.217802+00:00 app[worker.1]: Class Test Schedule Regular Morning (CERMD03)(Dt 24th Sep_2018)
+2018-09-19T05:00:59.217842+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T05:00:59.217876+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T05:00:59.217918+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T05:00:59.217951+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T05:00:59.217994+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T05:00:59.218028+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T05:00:59.218065+00:00 app[worker.1]: ###########################################
+2018-09-19T07:00:55.815365+00:00 app[worker.1]: Process started
+2018-09-19T07:00:59.825151+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T07:00:59.825546+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T07:00:59.825485+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(ECE)(19th Sep)
+2018-09-19T07:00:59.825527+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T07:00:59.825612+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T07:00:59.825552+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T07:00:59.825575+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T07:00:59.825653+00:00 app[worker.1]: ###########################################
+2018-09-19T07:00:59.825937+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T07:00:59.826271+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(EE)(19th Sep)
+2018-09-19T07:00:59.825618+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T07:00:59.826343+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T07:00:59.826311+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T07:00:59.826385+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T07:00:59.826464+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T07:00:59.826418+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T07:00:59.826530+00:00 app[worker.1]: ###########################################
+2018-09-19T07:00:59.826825+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T07:00:59.827160+00:00 app[worker.1]: Class Schedule GS Batch(. 25th jul)( 19th Sep To 21st sep;2018 )
+2018-09-19T07:00:59.827198+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T07:00:59.827229+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T07:00:59.827304+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T07:00:59.827269+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T07:00:59.827383+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T07:00:59.827416+00:00 app[worker.1]: ###########################################
+2018-09-19T07:00:59.827724+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T07:00:59.828099+00:00 app[worker.1]: Class Chedule Morning Genius Batch (CERMD003)(Dt,19th Sep  to 21st sep)
+2018-09-19T07:00:59.828144+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T07:00:59.828182+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T07:00:59.828270+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T07:00:59.826496+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T07:00:59.828317+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T07:00:59.827349+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T07:00:59.828352+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T07:00:59.828232+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T07:00:59.828390+00:00 app[worker.1]: ###########################################
+2018-09-19T07:00:59.828710+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T07:00:59.829089+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD01)(Dt 19th Sep to 21st Sep)
+2018-09-19T07:00:59.829130+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T07:00:59.829166+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T07:00:59.829210+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T07:00:59.829247+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T07:00:59.829292+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T07:00:59.829328+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T07:00:59.829366+00:00 app[worker.1]: ###########################################
+2018-09-19T07:00:59.829697+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T07:00:59.830059+00:00 app[worker.1]: Class Schedule GS Batch(. 15th Sep)( 19th sep to 21st Sep2018 )
+2018-09-19T07:00:59.830104+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T07:00:59.830140+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T07:00:59.830183+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T07:00:59.830215+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T07:00:59.830257+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T07:00:59.830300+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T07:00:59.830338+00:00 app[worker.1]: ###########################################
+2018-09-19T07:00:59.830648+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T07:00:59.831002+00:00 app[worker.1]: Class Schedule Regular Batch(ME)(Dt-19th Sep  to 21st Sep)
+2018-09-19T07:00:59.831078+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T07:00:59.831119+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T07:00:59.831044+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T07:00:59.831158+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T07:00:59.831233+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T07:00:59.831269+00:00 app[worker.1]: ###########################################
+2018-09-19T07:00:59.831200+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T07:00:59.831578+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T07:00:59.831955+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED01+02+03)(19th Sep to 20th Sep)
+2018-09-19T07:00:59.831997+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T07:00:59.832038+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T07:00:59.832084+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T07:00:59.832118+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T07:00:59.832159+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T07:00:59.832244+00:00 app[worker.1]: ###########################################
+2018-09-19T07:00:59.832198+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T07:00:59.832597+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T07:00:59.832988+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T07:00:59.833082+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T07:00:59.833154+00:00 app[worker.1]: ___________MAIL ALREADY SENT,SKIPPING REMAINING________
+2018-09-19T07:00:59.833120+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T07:00:59.833190+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T07:00:59.833227+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T07:00:59.833275+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T07:00:59.833310+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T07:00:59.833348+00:00 app[worker.1]: ###########################################
+2018-09-19T07:00:59.833678+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T07:00:59.834042+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T07:00:59.834124+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T07:00:59.834085+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T07:00:59.834169+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T07:00:59.834208+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T07:00:59.834252+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T07:00:59.834292+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T07:00:59.834359+00:00 app[worker.1]: ###########################################
+2018-09-19T07:00:59.834327+00:00 app[worker.1]: ___________MAIL ALREADY SENT,SKIPPING REMAINING________
+2018-09-19T07:00:59.834684+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T07:00:59.835034+00:00 app[worker.1]: Class Test Schedule Regular Morning (CERMD03)(Dt 24th Sep_2018)
+2018-09-19T07:00:59.835074+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T07:00:59.835108+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T07:00:59.835149+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T07:00:59.835183+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T07:00:59.835227+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T07:00:59.835262+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T07:00:59.835299+00:00 app[worker.1]: ###########################################
+2018-09-19T09:00:55.839426+00:00 app[worker.1]: Process started
+2018-09-19T09:01:00.011785+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T09:01:00.012162+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(ECE)(19th Sep)
+2018-09-19T09:01:00.012168+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T09:01:00.012192+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T09:01:00.012226+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T09:01:00.012232+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T09:01:00.012268+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T09:01:00.012274+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T09:01:00.012306+00:00 app[worker.1]: ###########################################
+2018-09-19T09:01:00.016688+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T09:01:00.017127+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T09:01:00.017081+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(EE)(19th Sep)
+2018-09-19T09:01:00.017165+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T09:01:00.017209+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T09:01:00.017285+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T09:01:00.017321+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T09:01:00.017243+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T09:01:00.017360+00:00 app[worker.1]: ###########################################
+2018-09-19T09:01:00.017687+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T09:01:00.018060+00:00 app[worker.1]: Class Schedule GS Batch(. 25th jul)( 19th Sep To 21st sep;2018 )
+2018-09-19T09:01:00.018102+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T09:01:00.018138+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T09:01:00.018183+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T09:01:00.018218+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T09:01:00.018259+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T09:01:00.018294+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T09:01:00.018333+00:00 app[worker.1]: ###########################################
+2018-09-19T09:01:00.018655+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T09:01:00.019020+00:00 app[worker.1]: Class Chedule Morning Genius Batch (CERMD003)(Dt,19th Sep  to 21st sep)
+2018-09-19T09:01:00.019104+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T09:01:00.019066+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T09:01:00.019150+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T09:01:00.019189+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T09:01:00.019234+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T09:01:00.019271+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T09:01:00.019634+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T09:01:00.019310+00:00 app[worker.1]: ###########################################
+2018-09-19T09:01:00.020006+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD01)(Dt 19th Sep to 21st Sep)
+2018-09-19T09:01:00.020047+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T09:01:00.020082+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T09:01:00.020126+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T09:01:00.020161+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T09:01:00.020207+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T09:01:00.020244+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T09:01:00.020284+00:00 app[worker.1]: ###########################################
+2018-09-19T09:01:00.021016+00:00 app[worker.1]: Class Schedule GS Batch(. 15th Sep)( 19th sep to 21st Sep2018 )
+2018-09-19T09:01:00.021059+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T09:01:00.020631+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T09:01:00.021095+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T09:01:00.021139+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T09:01:00.021173+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T09:01:00.021215+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T09:01:00.021250+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T09:01:00.021288+00:00 app[worker.1]: ###########################################
+2018-09-19T09:01:00.021609+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T09:01:00.021983+00:00 app[worker.1]: Class Schedule Regular Batch(ME)(Dt-19th Sep  to 21st Sep)
+2018-09-19T09:01:00.022024+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T09:01:00.022060+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T09:01:00.022106+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T09:01:00.022144+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T09:01:00.022224+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T09:01:00.022188+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T09:01:00.022262+00:00 app[worker.1]: ###########################################
+2018-09-19T09:01:00.022608+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T09:01:00.023046+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED01+02+03)(19th Sep to 20th Sep)
+2018-09-19T09:01:00.023087+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T09:01:00.023128+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T09:01:00.023180+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T09:01:00.023223+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T09:01:00.023268+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T09:01:00.023305+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T09:01:00.023346+00:00 app[worker.1]: ###########################################
+2018-09-19T09:01:00.023674+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T09:01:00.024051+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T09:01:00.024094+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T09:01:00.024130+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T09:01:00.024165+00:00 app[worker.1]: ___________MAIL ALREADY SENT,SKIPPING REMAINING________
+2018-09-19T09:01:00.024203+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T09:01:00.024242+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T09:01:00.024288+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T09:01:00.024323+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T09:01:00.024362+00:00 app[worker.1]: ###########################################
+2018-09-19T09:01:00.024733+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T09:01:00.025123+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T09:01:00.025166+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T09:01:00.025247+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T09:01:00.025202+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T09:01:00.025286+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T09:01:00.025332+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T09:01:00.025367+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T09:01:00.025437+00:00 app[worker.1]: ###########################################
+2018-09-19T09:01:00.025401+00:00 app[worker.1]: ___________MAIL ALREADY SENT,SKIPPING REMAINING________
+2018-09-19T09:01:00.025763+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T09:01:00.026145+00:00 app[worker.1]: Class Test Schedule Regular Morning (CERMD03)(Dt 24th Sep_2018)
+2018-09-19T09:01:00.026188+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T09:01:00.026225+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T09:01:00.026268+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T09:01:00.026307+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T09:01:00.026353+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T09:01:00.026387+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T09:01:00.026425+00:00 app[worker.1]: ###########################################
+2018-09-19T11:00:55.805132+00:00 app[worker.1]: Process started
+2018-09-19T11:00:59.777449+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T11:00:59.778055+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(ECE)(19th Sep)
+2018-09-19T11:00:59.778105+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T11:00:59.778163+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T11:00:59.778255+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T11:00:59.778296+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T11:00:59.778346+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T11:00:59.778418+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T11:00:59.778466+00:00 app[worker.1]: ###########################################
+2018-09-19T11:00:59.778915+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T11:00:59.779309+00:00 app[worker.1]: Class Schedule Regular & Weekend Batch(EE)(19th Sep)
+2018-09-19T11:00:59.779345+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T11:00:59.779373+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T11:00:59.779442+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T11:00:59.779607+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T11:00:59.779643+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T11:00:59.779672+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T11:00:59.779704+00:00 app[worker.1]: ###########################################
+2018-09-19T11:00:59.780061+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T11:00:59.780660+00:00 app[worker.1]: Class Schedule GS Batch(. 25th jul)( 19th Sep To 21st sep;2018 )
+2018-09-19T11:00:59.780723+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T11:00:59.780695+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T11:00:59.780759+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T11:00:59.780819+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T11:00:59.780855+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T11:00:59.780883+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T11:00:59.780914+00:00 app[worker.1]: ###########################################
+2018-09-19T11:00:59.781267+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T11:00:59.781855+00:00 app[worker.1]: Class Chedule Morning Genius Batch (CERMD003)(Dt,19th Sep  to 21st sep)
+2018-09-19T11:00:59.781890+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T11:00:59.781918+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T11:00:59.781953+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T11:00:59.782011+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T11:00:59.782050+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T11:00:59.782078+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T11:00:59.782456+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T11:00:59.782108+00:00 app[worker.1]: ###########################################
+2018-09-19T11:00:59.782862+00:00 app[worker.1]: Class Schedule Regular Morning (CERMD01)(Dt 19th Sep to 21st Sep)
+2018-09-19T11:00:59.783104+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T11:00:59.783074+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T11:00:59.783139+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T11:00:59.783262+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T11:00:59.783166+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T11:00:59.783233+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T11:00:59.783293+00:00 app[worker.1]: ###########################################
+2018-09-19T11:00:59.783828+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T11:00:59.784229+00:00 app[worker.1]: Class Schedule GS Batch(. 15th Sep)( 19th sep to 21st Sep2018 )
+2018-09-19T11:00:59.784277+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T11:00:59.784306+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T11:00:59.784341+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T11:00:59.784368+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T11:00:59.784455+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T11:00:59.784496+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T11:00:59.784536+00:00 app[worker.1]: ###########################################
+2018-09-19T11:00:59.785187+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T11:00:59.785731+00:00 app[worker.1]: Class Schedule Regular Batch(ME)(Dt-19th Sep  to 21st Sep)
+2018-09-19T11:00:59.785793+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T11:00:59.785848+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T11:00:59.785894+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T11:00:59.785929+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T11:00:59.786065+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T11:00:59.786028+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T11:00:59.786105+00:00 app[worker.1]: ###########################################
+2018-09-19T11:00:59.786747+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T11:00:59.787201+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED01+02+03)(19th Sep to 20th Sep)
+2018-09-19T11:00:59.787260+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T11:00:59.787307+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T11:00:59.787353+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T11:00:59.787391+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T11:00:59.787439+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T11:00:59.787481+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T11:00:59.788839+00:00 app[worker.1]: ###########################################
+2018-09-19T11:00:59.790536+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T11:00:59.790948+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T11:00:59.790992+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T11:00:59.791032+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T11:00:59.791072+00:00 app[worker.1]: ___________MAIL ALREADY SENT,SKIPPING REMAINING________
+2018-09-19T11:00:59.791116+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T11:00:59.791156+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T11:00:59.791205+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T11:00:59.791246+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T11:00:59.791294+00:00 app[worker.1]: ###########################################
+2018-09-19T11:00:59.791655+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T11:00:59.792056+00:00 app[worker.1]: Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T11:00:59.792098+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T11:00:59.792136+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T11:00:59.792184+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T11:00:59.792219+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T11:00:59.792264+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T11:00:59.792300+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T11:00:59.792334+00:00 app[worker.1]: ___________MAIL ALREADY SENT,SKIPPING REMAINING________
+2018-09-19T11:00:59.792368+00:00 app[worker.1]: ###########################################
+2018-09-19T11:00:59.792957+00:00 app[worker.1]: ############New Notification#############
+2018-09-19T11:00:59.793397+00:00 app[worker.1]: Class Test Schedule Regular Morning (CERMD03)(Dt 24th Sep_2018)
+2018-09-19T11:00:59.793508+00:00 app[worker.1]: Cheking for batch  CERED 10
+2018-09-19T11:00:59.793549+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED05+CERED06+CERED07+CERED09+CERED10)(Dt-(18th Sep to 21st Sep)
+2018-09-19T11:00:59.793594+00:00 app[worker.1]: Cheking for batch  CERMD 04
+2018-09-19T11:00:59.793628+00:00 app[worker.1]: Batch last seen message is
+2018-09-19T11:00:59.793674+00:00 app[worker.1]: Cheking for batch  CERED 04
+2018-09-19T11:00:59.793751+00:00 app[worker.1]: ###########################################
+2018-09-19T11:00:59.793710+00:00 app[worker.1]: Batch last seen message is   Class Schedule Regular Evening Batch(CERED04+CERED08)(Dt-(19th Sep to 21st Sep)
+2018-09-19T12:33:17.770191+00:00 heroku[worker.1]: State changed from up to down
+2018-09-19T12:33:18.778225+00:00 heroku[worker.1]: Stopping all processes with SIGTERM
+2018-09-19T12:33:18.917582+00:00 heroku[worker.1]: Process exited with status 143
+2018-09-19T12:33:17.654124+00:00 app[api]: Scaled to worker@0:Free by user srajan1996@gmail.com
