@@ -6,7 +6,10 @@ from datetime import datetime
 import sendgrid
 import os
 from sendgrid.helpers.mail import *
-today = datetime.now().date()
+import pytz
+tz = pytz.timezone('Asia/Kolkata')
+
+today = datetime.now().astimezone(tz).date()
 
 batchdict = {
 'CERED-10':{ 
@@ -19,7 +22,7 @@ batchdict = {
 # },
 
 'CERED-04': {
-  'email-list':['nikhilpvp6@gmail.com'],
+  'email-list':['nikhilpvp6@gmail.com','srajan1996@gmail.com'],
   'last-message':''
 }
 }
@@ -50,9 +53,10 @@ def clear_last_message():
     print("Cleared all last messages")
     
 
-@sched.scheduled_job('interval', minutes=2,timezone="Asia/Kolkata")
+@sched.scheduled_job('interval', hours=2,timezone="Asia/Kolkata")
 def scheduled_job():
     print("Process started")
+    print(datetime.now().astimezone(tz))
     response = urlopen('https://iesmaster.org/')
     html = response.read()
     soup=BeautifulSoup(html,'html5lib')
