@@ -13,7 +13,7 @@ today = datetime.now().astimezone(tz).date()
 
 batchdict = {
 'CERED-10':{ 
-  'email-list':['srajan1996@gmail.com'],
+  'email-list':['srajan1996@gmail.com','chetangsti@gmail.com'],
   'last-message':''
 },
 # 'CERMD-04':{ 
@@ -116,4 +116,5 @@ def scheduled_job():
 ####
 
 sched.start()
+print("Program execution started")
 # scheduled_job()
