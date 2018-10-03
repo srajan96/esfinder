@@ -65,7 +65,7 @@ def scheduled_job():
         if str(type(child)) == "<class 'bs4.element.Tag'>":
             url = child.a['href']
             
-            date = datetime.strptime(child.find_all(class_='ns-dt')[0].contents[0],'%d-%m-%y').date()
+            date = datetime.strptime(child.find_all(class_='ns-dt')[0].contents[0],'%d-%m-%y').astimezone(tz).date()
 
     #         print(url)
 
