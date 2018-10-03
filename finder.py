@@ -66,11 +66,12 @@ def scheduled_job():
             url = child.a['href']
             
             date = datetime.strptime(child.find_all(class_='ns-dt')[0].contents[0],'%d-%m-%y').astimezone(tz).date()
-
+			
     #         print(url)
 
             if not  date < today:
                 print ('############New Notification#############')
+                print("DATED : ",date)
                 child.a.i.extract()
                 child.a.span.extract()
                 desc = child.a.contents[0]
