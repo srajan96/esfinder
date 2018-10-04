@@ -56,7 +56,7 @@ def clear_last_message():
 @sched.scheduled_job('interval', hours=2,timezone="Asia/Kolkata")
 def scheduled_job():
     print("Process started")
-    print(datetime.now().astimezone(tz))
+    print("Current date is ",today)
     response = urlopen('https://iesmaster.org/')
     html = response.read()
     soup=BeautifulSoup(html,'html5lib')
@@ -71,11 +71,15 @@ def scheduled_job():
 
             if not  date < today:
                 print ('############New Notification#############')
-                print("DATED : ",date)
+                
                 child.a.i.extract()
                 child.a.span.extract()
                 desc = child.a.contents[0]
                 print (desc)
+                print("====================")
+                print("TODAY'S DATE ",today)
+                print("NOTIF DATE ",date)
+                print("====================")
                 first_notif=True
                 new_notif=False
                 for batch in batchdict:
