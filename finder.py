@@ -9,7 +9,7 @@ from sendgrid.helpers.mail import *
 import pytz
 tz = pytz.timezone('Asia/Kolkata')
 
-today = datetime.now().astimezone(tz).date()
+
 
 batchdict = {
 'CERED-10':{ 
@@ -56,6 +56,7 @@ def clear_last_message():
 @sched.scheduled_job('interval', hours=2,timezone="Asia/Kolkata")
 def scheduled_job():
     print("Process started")
+    today = datetime.now().astimezone(tz).date()
     print("Current date is ",today)
     response = urlopen('https://iesmaster.org/')
     html = response.read()
