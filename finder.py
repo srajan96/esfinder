@@ -8,7 +8,7 @@ import os
 from sendgrid.helpers.mail import *
 import pytz
 tz = pytz.timezone('Asia/Kolkata')
-
+last_seen=""
 
 
 batchdict = {
@@ -45,11 +45,13 @@ sched = BlockingScheduler()
 
 @sched.scheduled_job('cron',hour=0,timezone="Asia/Kolkata")
 def clear_last_message():
+	
     print("Clearing last message started")
+    last_seen=""
     for batch in batchdict:
         batchdict[batch]['last-message']=''
         print("Last messaage for batch ",batch," is ",batchdict[batch]['last-message'])
-
+	print("LAST_SEEN IS ",last_seen)
     print("Cleared all last messages")
     
 
@@ -77,10 +79,15 @@ def scheduled_job():
                 child.a.span.extract()
                 desc = child.a.contents[0]
                 print (desc)
-                print("====================")
-                print("TODAY'S DATE ",today)
-                print("NOTIF DATE ",date)
-                print("====================")
+                if(last_seen==desc):
+                	print("LAST MESSAGE SEEN : ",last_seen)
+                    print("Breaking the loop as no new messages seen")
+                	break
+                else:
+                	last_seen=desc 
+                    
+                print("<---- TODAY'S DATE ",today,"NOTIF DATE ",date," ----->")
+                
                 first_notif=True
                 new_notif=False
                 for batch in batchdict:
