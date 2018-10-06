@@ -48,10 +48,11 @@ def clear_last_message():
 	
     print("Clearing last message started")
     last_seen=""
+    print("last_seen is ",last_seen)
     for batch in batchdict:
         batchdict[batch]['last-message']=''
         print("Last messaage for batch ",batch," is ",batchdict[batch]['last-message'])
-	print("LAST_SEEN IS ",last_seen)
+	
     print("Cleared all last messages")
     
 
