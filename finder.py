@@ -27,6 +27,8 @@ batchdict = {
 }
 }
 
+
+	
 def sendemail(emaillist,batch, email_content):
     for email in emaillist:
         sg =sendgrid.SendGridAPIClient(apikey=os.environ.get('SENDGRID_API_KEY'))
@@ -80,12 +82,12 @@ def scheduled_job():
                 child.a.span.extract()
                 desc = child.a.contents[0]
                 print (desc)
-                if(last_seen==desc):
-                	print("LAST MESSAGE SEEN : ",last_seen," \n Breaking the loop as no new messages")
+                if(self.last_seen==desc):
+                	print("LAST MESSAGE SEEN : ",self.last_seen," \n Breaking the loop as no new messages")
                     
                 	break
                 else:
-                	last_seen=desc 
+                	self.last_seen=desc 
                     
                 print("<---- TODAY'S DATE ",today,"NOTIF DATE ",date," ----->")
                 
