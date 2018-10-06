@@ -81,8 +81,8 @@ def scheduled_job():
                 desc = child.a.contents[0]
                 print (desc)
                 if(last_seen==desc):
-                	print("LAST MESSAGE SEEN : ",last_seen)
-                    print("Breaking the loop as no new messages seen")
+                	print("LAST MESSAGE SEEN : ",last_seen," \n Breaking the loop as no new messages)
+                    
                 	break
                 else:
                 	last_seen=desc 
