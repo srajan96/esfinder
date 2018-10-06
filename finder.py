@@ -27,7 +27,10 @@ batchdict = {
 }
 }
 
-
+def get_last_seen():
+	return last_seen
+def set_last_seen(msg):
+	last_seen=msg
 	
 def sendemail(emaillist,batch, email_content):
     for email in emaillist:
@@ -82,12 +85,13 @@ def scheduled_job():
                 child.a.span.extract()
                 desc = child.a.contents[0]
                 print (desc)
-                if(self.last_seen==desc):
-                	print("LAST MESSAGE SEEN : ",self.last_seen," \n Breaking the loop as no new messages")
+                ls=get_last_seen()
+                if(ls==desc):
+                	print("LAST MESSAGE SEEN : ",ls," \n Breaking the loop as no new messages")
                     
                 	break
                 else:
-                	self.last_seen=desc 
+                	set_last_seen(desc) 
                     
                 print("<---- TODAY'S DATE ",today,"NOTIF DATE ",date," ----->")
                 
