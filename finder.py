@@ -58,7 +58,7 @@ def clear_last_message():
     print("Cleared all last messages")
     
 
-@sched.scheduled_job('interval', hours=2,timezone="Asia/Kolkata")
+@sched.scheduled_job('interval', minutes=2,timezone="Asia/Kolkata")
 def scheduled_job():
     print("Process started")
     today = datetime.now().astimezone(tz).date()
